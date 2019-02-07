@@ -30,4 +30,4 @@ revision = "73a922fe950715414820b48fbf09810635302be5"
 
 [lock."github.com/buckaroo-pm/madler-zlib"]
 versions = [ "branch=master" ]
-revision = "1f7335c126705550b9cd4e91d2d34835c49bc28e"
+revision = "f07b731f16d83c65fa032285dbc87c1bd181956d"
